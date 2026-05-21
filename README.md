@@ -32,6 +32,14 @@
 
 >[RapidProxy](https://www.rapidproxy.io/?ref=0xsdeo) 提供全球 9000万+ 真实住宅 IP，支持动态/静态住宅代理，覆盖 190+ 国家地区。高匿名、低封禁、稳定高速，流量不会过期，适用于自动化、AI 数据采集、多账号管理等场景。[立即免费测试吧！](https://www.rapidproxy.io/?ref=0xsdeo)
 
+- [BirdProxies](https://birdproxies.com/@ANTIDEBUG_BREAKER)
+
+<a href="https://birdproxies.com/@ANTIDEBUG_BREAKER"><img src="https://private-user-images.githubusercontent.com/50243344/558620271-cac81306-49ea-44ae-b2bc-c16622803a99.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkzNTcxMzEsIm5iZiI6MTc3OTM1NjgzMSwicGF0aCI6Ii81MDI0MzM0NC81NTg2MjAyNzEtY2FjODEzMDYtNDllYS00NGFlLWIyYmMtYzE2NjIyODAzYTk5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTIxVDA5NDcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmMTE1NWFlYzNhOTFlMzg0OWFkMGM4MjhiODJmNTk0NmQ4NzY5NjE0ZWZkYmIwZmI5ZWZkNDUzY2MwNzg2ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmpwZWcifQ.OJpmI28rH-ev-oeqoTP2KJtSYrf6eMTaLQ9IUZ_gqeE" /></a>
+
+[BirdProxies](https://birdproxies.com/@ANTIDEBUG_BREAKER) — 嘿，我们做 BirdProxies 的初衷是——代理不该搞得那么复杂，也不该那么贵。提供覆盖 195 多个地区的快速住宅代理和 ISP 代理，价格公道，支持到位。去我们官网首页玩玩 FlappyBird 小游戏，还能免费领流量！通过[这个链接](https://birdproxies.com/@ANTIDEBUG_BREAKER)注册，首单可享 10% 折扣，并额外获得 15% 住宅代理免费流量~
+
+测试联系: [https://discord.com/invite/birdproxies](https://discord.com/invite/birdproxies)
+
 ## 教学视频
 
 反调试：https://www.bilibili.com/video/BV1gQ4mzMEA4
