@@ -159,6 +159,20 @@ async function initializeScriptRegistry() {
 chrome.runtime.onStartup.addListener(initializeScriptRegistry);
 chrome.runtime.onInstalled.addListener(initializeScriptRegistry);
 
+// ====== 首次安装/更新引导：仅跳转一次文档页 ====== //
+const WELCOME_REDIRECT_KEY = 'Antidebug_breaker_welcome_redirected';
+chrome.runtime.onInstalled.addListener(async () => {
+    try {
+        const result = await chrome.storage.local.get(WELCOME_REDIRECT_KEY);
+        if (!result[WELCOME_REDIRECT_KEY]) {
+            await chrome.storage.local.set({ [WELCOME_REDIRECT_KEY]: true });
+            chrome.tabs.create({ url: 'https://antidebug-breaker.com/' });
+        }
+    } catch (error) {
+        console.error('[AntiDebug] Welcome redirect failed:', error);
+    }
+});
+
 chrome.storage.local.get(null, (data) => {
     // 先初始化注册表
     initializeScriptRegistry().then(() => {

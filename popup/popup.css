@@ -49,12 +49,28 @@ header {
     background: transparent;
 }
 
+.doc-link {
+    display: inline-block;
+    align-self: center;
+    text-align: center;
+    font-size: 12px;
+    color: var(--primary-light);
+    text-decoration: none;
+    margin-top: -12px;
+    transition: color 0.3s;
+}
+
+.doc-link:hover {
+    text-decoration: underline;
+}
+
 .title-container {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 12px;
-    margin-top: 5px;
+    margin-top: -8px;
+    position: relative;
 }
 
 h1 {
@@ -1161,7 +1177,8 @@ footer {
 
 .github-link {
     position: absolute;
-    top: 13px;
+    top: 50%;
+    transform: translateY(-50%);
     right: 15px;
     color: var(--on-surface);
     transition: color 0.3s;
@@ -1172,7 +1189,7 @@ footer {
 
 .github-link:hover {
     color: var(--primary-light);
-    transform: scale(1.1);
+    transform: translateY(-50%) scale(1.1);
 }
 
 /* ========== 多实例标签页样式 ========== */
@@ -1374,7 +1391,8 @@ footer {
 /* ========== 左上角辅助配置按钮 ========== */
 .aux-config-wrapper {
     position: absolute;
-    top: 8px;
+    top: 50%;
+    transform: translateY(-50%);
     left: 8px;
     z-index: 20;
 }
